@@ -128,13 +128,13 @@ banner({ type:0 }).then(res=>{
 
 ## 使用文档
 
-[文档地址](https://binaryify.github.io/NeteaseCloudMusicApi) 
+[文档地址1](https://binaryify.github.io/NeteaseCloudMusicApi) 
 
 [文档地址2](https://neteasecloudmusicapi.vercel.app)
 
 [文档地址3](https://docs-neteasecloudmusicapi.vercel.app/docs/#/)
 
-[文档地址3](https://docs-neteasecloudmusicapi.vercel.app/)
+[文档地址4](https://docs-neteasecloudmusicapi.vercel.app/)
 
 ![文档](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/docs.png)
 
